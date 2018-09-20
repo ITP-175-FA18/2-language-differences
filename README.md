@@ -7,13 +7,13 @@ While a lot of the steps in this assignment are similar to the last journal, the
 1. Join the [`j2-language-differe` slack channel][2]
 1. In that Slack channel, you will see a link that will take you to Github Classroom
 1. Click the link and accept the `j2-language-differences` assignment and Github will create a version of the repository for you.
-1. Once this step is complete, visit [the Github homepage][1] and you should now see `ITP-175-FA18/j2-language-differences` in the list on the left under Repositories.
+1. Once this step is complete, visit [the Github homepage][1] and you should now see `ITP-175-FA18/j2-YOURUSERNAME` in the list on the left under Repositories.
 
     **Reach out to the professor if you have issues getting to this stage. Do NOT Wait!!**
 
-1. Click the `ITP-175-FA18/j2-language-differences` repository and you will see a copy of these assignment instructions.
+1. Click the `ITP-175-FA18/j2-YOURUSERNAME` repository and you will see a copy of these assignment instructions.
 1. Click the `Create new file` button on this page and name it `journal.md`.
-1. In `journal.md` write three things that make `command line`, `HTML`, `CSS`, or `Markdown` languages significantly different from each other.
+1. In `journal.md` write three things that make `command line`, `HTML`, `CSS`, or `Markdown` languages significantly different from each other or unique.
 1. For each of your three items, use the web to find a resource that helps explain or validate why that difference exists and add it do `journal.md`.
 
     If you're having trouble finding a resource, check out these tips on [refining web searches][3] and [filtering search results][4]
